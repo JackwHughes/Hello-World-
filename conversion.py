@@ -15,3 +15,5 @@ print(num1)
 print(num2) 
 print(num3) 
 print(string1) 
+
+# Code was written by me Jack Hughes for the purpose of Task 2
