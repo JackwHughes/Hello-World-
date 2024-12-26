@@ -1,4 +1,4 @@
-# Numbers.py
+Numbers.py
 
 # Ask the user to enter three different integers
 num1 = int(input("Enter the first integer: "))
