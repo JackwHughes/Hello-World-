@@ -19,3 +19,6 @@ first_three = str_manip[:3]  # First three characters
 last_two = str_manip[-2:]    # Last two characters
 five_letter_word = first_three + last_two  # Combine to form the five-letter word
 print("Five-letter word:", five_letter_word)
+
+
+# Code was written by me Jack Hughes for the purpose of Task 3
