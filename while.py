@@ -34,4 +34,4 @@ if count_of_numbers > 0:
 else:
     print("No valid numbers were entered to calculate an average.")
 
-# Code was written by me Jack Hughes for the purpose of Task 4
+# Code was written by me Jack Hughes for the purpose of Task 3
